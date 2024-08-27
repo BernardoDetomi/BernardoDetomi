@@ -12,7 +12,7 @@
 
 [![G-mail](https://skillicons.dev/icons?i=gmail	)](mailto:bernardomd01@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/BernardoDetomi/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/BernardoDetomi/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/bernardoo.md/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Bernardo_md)
 [![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/bernardo.detomi)
 [![Linktree](https://skillicons.dev/icons?i=linktree)](https://linktr.ee/bernardomd)
