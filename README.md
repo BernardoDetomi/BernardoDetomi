@@ -17,7 +17,5 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bernardo-maia-detomi-7621a51b9/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/bernardoo.md/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Bernardo_md)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/bernardo.detomi)
-[![Linktree](https://skillicons.dev/icons?i=linktree)](https://linktr.ee/bernardomd)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
