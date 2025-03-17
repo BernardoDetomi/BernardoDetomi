@@ -10,8 +10,9 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoDetomi&bg_color=0d1117&color=eb7a34&line=eb7a34&point=eb5934&area=true&hide_border=true)
 
-### 📂 Meu Portfólio
+### 📂 Meus Portfólios
 [![Portfolio](https://img.shields.io/badge/Portfolio-BernardoDetomi.github.io-eb7a34?style=for-the-badge&logo=github)](https://bernardodetomi.github.io)
+[![Portfolio2](https://img.shields.io/badge/Portfolio-BernardoDetomi.github.io-eb7a34?style=for-the-badge&logo=github)]([https://bernardodetomi.github.io](https://portfolio-bernardodetomis-projects.vercel.app/))
 
 [![G-mail](https://skillicons.dev/icons?i=gmail	)](mailto:bernardomd01@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bernardo-maia-detomi-7621a51b9/)
