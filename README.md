@@ -12,7 +12,7 @@
 
 ### 📂 Meus Portfólios
 [![Portfolio](https://img.shields.io/badge/Portfolio-BernardoDetomi.github.io-eb7a34?style=for-the-badge&logo=github)](https://bernardodetomi.github.io)
-[![Portfolio2](https://img.shields.io/badge/Portfolio-BernardoDetomi.vercel.app-eb7a34?style=for-the-badge&logo=github)]([https://bernardodetomi.vercel.app](https://portfolio-bernardodetomis-projects.vercel.app/)
+[![Portfolio2](https://img.shields.io/badge/Portfolio-BernardoDetomi.vercel.app-eb7a34?style=for-the-badge&logo=github)](https://portfolio-bernardodetomis-projects.vercel.app/)
 
 [![G-mail](https://skillicons.dev/icons?i=gmail	)](mailto:bernardomd01@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bernardo-maia-detomi-7621a51b9/)
