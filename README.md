@@ -14,19 +14,18 @@ Estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente cu
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BernardoDetomi&show_icons=true&count_private=true&hide_border=true&title_color=eb7a34&icon_color=eb7a34&text_color=FFF&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="Bernardo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BernardoDetomi&layout=compact&hide_border=true&title_color=eb7a34&text_color=FFF&bg_color=0d1117&langs_count=8" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardoDetomi&show_icons=true&count_private=true&hide_border=true&title_color=eb7a34&icon_color=eb7a34&text_color=FFF&bg_color=0d1117&include_all_commits=true" alt="Bernardo GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoDetomi&layout=compact&hide_border=true&title_color=eb7a34&text_color=FFF&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=BernardoDetomi&theme=dark&hide_border=true&background=0d1117&ring=eb7a34&fire=eb5934&currStreakLabel=eb7a34&sideNums=FFF&currStreakNum=FFF&sideLabels=FFF" alt="GitHub Streak" />
-  <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=BernardoDetomi&hide_border=true&title_color=eb7a34&text_color=FFF&bg_color=0d1117&custom_title=Tempo+de+Codificação&layout=compact" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=BernardoDetomi&theme=dark&hide_border=true&background=0d1117&ring=eb7a34&fire=eb5934&currStreakLabel=eb7a34&sideNums=FFF&currStreakNum=FFF&sideLabels=FFF" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BernardoDetomi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=eb7a34&icon_color=eb5934&text_color=FFF" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=BernardoDetomi&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&title_color=eb7a34&icon_color=eb5934&text_color=FFF" />
 </div>
 
 ---
