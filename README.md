@@ -58,8 +58,8 @@ Estudante apaixonado por tecnologia e desenvolvimento de software. Atualmente cu
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌟_Portfolio_Principal-BernardoDetomi.github.io-eb7a34?style=for-the-badge&logo=github&logoColor=white)](https://bernardodetomi.github.io)
-[![Portfolio Vercel](https://img.shields.io/badge/🚀_Portfolio_Vercel-bernardodetomi.vercel.app-eb5934?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bernardodetomis-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-BernardoDetomi.github.io-eb7a34?style=for-the-badge&logo=github&logoColor=white)](https://bernardodetomi.github.io)
+[![Portfolio Vercel](https://img.shields.io/badge/🚀_Portfolio_Principal-bernardodetomi.vercel.app-eb5934?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bernardodetomis-projects.vercel.app/)
 
 </div>
 
